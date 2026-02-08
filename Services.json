@@ -3,9 +3,11 @@
     "id": 1,
     "icon": "implant_icon.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/OrthodonticTtretmmentHubli.jpg",
-    "title": "Ortho - Braces",
-    "description": "Orthodontic treatment using braces to correct crooked, crowded, or misaligned teeth.",
-    "fullContent": "Orthodontic treatment is a dental specialty focused on correcting crooked, crowded, or misaligned teeth and improper bites using braces or other orthodontic appliances.\n\nThese appliances gently move teeth into their ideal position, improving the appearance of your smile while enhancing chewing, speech, and overall oral health.\n\nMisaligned teeth can be difficult to clean and may lead to tooth decay, gum disease, uneven tooth wear, and jaw problems if left untreated.\n\nFixed braces made of metal or tooth-colored ceramic provide precise and long-lasting results.\n\nTreatment is most effective between the ages of 8 and 14, but adults can also undergo orthodontic care successfully.\n\nTypically lasting 12 to 30 months, orthodontic treatment results in a healthy, confident smile."
+    "title": "Braces",
+    "description": "Orthodontic treatment is a dental specialty focused on correcting crooked, crowded, or misaligned teeth and improper bites using braces or other orthodontic appliances.",
+    "fullContent": "Orthodontic treatment is a dental specialty focused on correcting crooked, crowded, or misaligned teeth and improper bites using braces or other orthodontic appliances. These appliances gently move teeth into their ideal position, improving the appearance of your smile while enhancing chewing, speech, and overall oral health. Misaligned teeth can be difficult to clean and may lead to tooth decay, gum disease, uneven tooth wear, and jaw problems if left untreated.
+
+Orthodontic treatment can be done using fixed braces made of metal or tooth-colored ceramic, or removable appliances for minor corrections, with fixed braces providing more precise and long-lasting results. Treatment is most effective when started between the ages of 8 and 14, but adults can also successfully undergo orthodontic care, though treatment may take slightly longer. Typically lasting 12 to 30 months, orthodontic treatment helps create a healthy, well-balanced bite and a confident, beautiful smile that lasts a lifetime."
   },
   {
     "id": 2,
@@ -21,7 +23,16 @@
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dentalFillings.png",
     "title": "Dental Fillings",
     "description": "Dental fillings are an effective treatment for repairing teeth affected by cavities, decay, cracks, or minor fractures.",
-    "fullContent": "Dental fillings are an effective treatment for repairing teeth affected by cavities, decay, cracks, or minor fractures.\n\nAt Dhotrad’s Sunny Dental Clinics, we provide advanced dental filling treatments that restore tooth strength, function, and appearance while preventing further damage.\n\nAvailable filling materials include composite, GIC, silver amalgam, porcelain, and gold.\n\nWith proper oral hygiene and regular dental check-ups, fillings can last for many years."
+    "fullContent": "Dental fillings are an effective treatment for repairing teeth affected by cavities, decay, cracks, or minor fractures. 
+    At Dhotrad’s Sunny Dental Clinics, we provide advanced dental filling treatments that restore tooth strength, function, 
+    and appearance while preventing further damage. Our clinic offers a range of filling options, including tooth-colored composite 
+    fillings, glass ionomer cement (GIC), silver amalgam, porcelain, and gold fillings. The most suitable filling material is selected
+    based on the location of the tooth, extent of decay, bite pressure, and individual patient needs. Tooth-colored fillings blend
+    seamlessly with natural teeth, while GIC fillings release fluoride to help protect against future decay. Dental fillings not only
+    improve chewing efficiency and comfort but also help prevent infections and long-term dental complications. With proper oral 
+    hygiene and regular dental check-ups, fillings can last for many years. For accurate diagnosis, quality treatment, and 
+    long-lasting results, consult the experienced dentists at Dhotrad’s Sunny Dental Clinics.
+    📞 Book an appointment today for reliable dental filling treatment and restore your healthy smile."
   },
   {
     "id": 4,
@@ -29,86 +40,330 @@
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dentalCrown.jpg",
     "title": "Dental Crowns",
     "description": "Dental crowns are a reliable restorative and cosmetic solution used to protect and strengthen damaged teeth.",
-    "fullContent": "Dental crowns protect and strengthen damaged or weakened teeth while restoring function and appearance.\n\nThey are commonly placed after root canal treatment or over dental implants.\n\nMaterials include porcelain, ceramic, zirconia, metal, and porcelain-fused-to-metal.\n\nWith proper care, crowns can last many years."
+    "fullContent": "Dental crowns are a reliable restorative and cosmetic solution used to protect and strengthen damaged teeth. 
+    At Dhotrad’s Sunny Dental Clinics, we provide high-quality dental crowns designed to blend naturally with your 
+    existing teeth, restoring both function and appearance. A dental crown fits over the tooth like a cap, covering 
+    it completely and protecting it from further damage while enhancing your smile. A dental crown is recommended for teeth 
+    that are cracked, severely worn, weakened, or affected by large cavities that cannot be treated with fillings alone. Crowns 
+    are also commonly placed after root canal treatment to protect the fragile tooth structure, as well as over dental implants 
+    or as part of a dental bridge. We offer dental crowns made from advanced materials such as porcelain, ceramic, zirconia, metal,
+    gold, composite resin, and material combinations like porcelain-fused-to-metal. The choice of crown material depends on factors
+    including tooth location, bite force, gum position, remaining natural tooth structure, and the shade of surrounding teeth.
+    Temporary crowns may be placed initially while the permanent crown is custom-fabricated for precise fit and aesthetics. With
+    proper oral hygiene and regular dental check-ups, dental crowns can last many years. While crowns are often the most effective
+    solution, alternatives such as veneers may be considered in specific cases. Our dentists carefully evaluate each patient to
+    recommend the most suitable treatment option.
+  📞 Book an appointment at Dhotrad’s Sunny Dental Clinics today for durable, natural-looking dental crowns and long-term tooth protection."
   },
   {
     "id": 5,
     "icon": "implant_icon.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/rootCanal.jpg",
     "title": "Root Canal",
-    "description": "Root canal treatment removes infection and saves the natural tooth.",
-    "fullContent": "Root canal treatment removes infected pulp tissue to relieve pain and prevent tooth extraction.\n\nThe canals are cleaned, disinfected, and sealed.\n\nA crown is usually placed to restore strength and appearance."
+    "description": "Root canal treatment is a tooth-saving procedure designed to remove infection from the inner portion of the tooth.",
+    "fullContent": "Root canal treatment is a tooth-saving procedure designed to remove infection from the inner portion of the tooth and preserve 
+    its natural structure. At Dhotrad’s Sunny Dental Clinics, root canal therapy is performed with precision and care to eliminate 
+    pain, prevent further infection, and avoid tooth extraction. The procedure involves removing the infected pulp, thoroughly cleaning
+    and disinfecting the canals, and sealing the tooth to protect it from future damage. A root canal is required when the pulp inside
+    the tooth becomes inflamed or infected due to deep decay, repeated dental procedures, cracks, or trauma. Even when the visible portion
+    of the tooth appears intact, infection inside can cause pain, swelling, and sensitivity. Our dentists conduct a detailed clinical examination
+    and digital X-rays to accurately diagnose the condition and determine whether root canal treatment is necessary. The procedure
+    is carried out under local anesthesia to ensure patient comfort. The infected pulp is carefully removed, the canals are cleaned and
+    shaped, and antibacterial medication is used to eliminate infection. The tooth is then sealed with a biocompatible filling material.
+    A temporary filling may be placed initially, followed by a permanent filling or dental crown to restore strength, function, and appearance.
+    Dental crowns provide long-term stability and a natural look to the treated tooth. After root canal treatment, mild discomfort is normal
+    for a few days and usually subsides with medication. Patients can return to daily activities quickly but should avoid chewing on the treated tooth
+    until it is permanently restored. With proper oral hygiene and regular dental visits, a root canal-treated tooth can last for many years. 
+    Delaying or avoiding root canal treatment can allow infection to spread, leading to severe pain, abscess formation, bone loss, and eventual 
+    tooth extraction. Preventive care such as good oral hygiene, regular dental check-ups, and early treatment of cavities can significantly 
+    reduce the need for root canal therapy. If you are experiencing persistent tooth pain or sensitivity, contact Dhotrad’s Sunny Dental Clinics today. 
+    Emergency appointments are available to diagnose the cause and provide prompt relief while restoring your healthy, confident smile."
   },
   {
     "id": 6,
     "icon": "teeth_icon.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dentalBridge.jpg",
     "title": "Dental Bridge",
-    "description": "A dental bridge replaces missing teeth and restores function and appearance.",
-    "fullContent": "A dental bridge replaces one or more missing teeth using artificial teeth supported by adjacent teeth or implants.\n\nIt restores chewing, speech, and smile aesthetics.\n\nWith proper care, bridges can last many years."
+    "description": "A dental bridge is an effective and reliable solution for replacing missing teeth and restoring both function and appearance.",
+    "fullContent": "A dental bridge is an effective and reliable solution for replacing missing teeth and restoring both function and appearance. 
+    At Dhotrad’s Sunny Dental Clinics, we design and place dental bridges that look natural, feel comfortable, and blend seamlessly with
+    your existing teeth. Bridges are a preferred alternative to removable dentures for many patients due to their stability and long-term
+    comfort. A dental bridge, also known as a fixed partial denture, is used when one or more teeth are missing and consists of an artificial
+    tooth called a pontic, which fills the gap and is supported by healthy teeth or dental implants on either side. These supporting teeth,
+    known as abutments, are prepared to securely hold the bridge in place, and the bridge is fabricated using materials such as porcelain, 
+    zirconia, metal, or a combination of materials to closely match natural teeth. Dental bridge treatment is recommended for patients with
+    missing teeth and healthy adjacent teeth capable of supporting the restoration, helping restore chewing and speaking ability, improve smile
+    aesthetics, maintain facial structure, evenly distribute bite forces, and prevent surrounding teeth from shifting out of position. Several
+    types of dental bridges are available, including traditional, cantilever, Maryland, and implant-supported bridges, with the most suitable 
+    option selected based on the location of the missing teeth, oral health condition, and functional requirements. The treatment process 
+    begins with a thorough clinical examination and X-rays to assess tooth and bone health, followed by preparation of the supporting teeth, 
+    impression taking using conventional or digital methods, and custom fabrication of the bridge in a dental laboratory, during which a temporary
+    bridge may be placed. The final bridge is then securely fitted to restore function and aesthetics. The cost of a dental bridge varies depending
+    on the number of teeth replaced, materials used, type of bridge selected, and any additional treatments required, and with proper oral hygiene
+    and regular dental visits, dental bridges can last for many years. If you are missing one or more teeth, contact Dhotrad’s Sunny Dental Clinics 
+    today to restore a strong, functional, and confident smile."
   },
   {
     "id": 7,
     "icon": "smile_icon.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/toothExtraction.jpg",
     "title": "Tooth Extraction",
-    "description": "Safe removal of severely damaged or infected teeth.",
-    "fullContent": "Tooth extraction is performed when a tooth is beyond repair due to decay, infection, trauma, or impaction.\n\nRecovery is usually quick with proper aftercare."
+    "description": "Tooth extraction is a common dental procedure that involves removing a tooth from its socket.",
+    "fullContent": "Tooth extraction is a common dental procedure that involves removing a tooth from its socket when it is severely damaged,
+    infected, or causing oral health complications. At Dhotrad’s Sunny Dental Clinics, tooth extractions are performed with advanced pain
+    management techniques to ensure patient comfort and safety, making the procedure smooth and minimally traumatic. Tooth extraction may
+    be necessary in cases of severe tooth decay or infection, advanced gum disease, dental trauma, overcrowding, impacted teeth, or wisdom
+    tooth complications. The extraction process begins with a thorough consultation and X-rays to assess the condition of the tooth and
+    surrounding bone, and antibiotics may be prescribed if infection or swelling is present. Depending on the condition of the tooth, the
+    extraction may be simple or surgical. In a simple extraction, local anesthesia is administered to numb the area, the tooth is gently 
+    loosened, and removed using specialized instruments. Surgical extraction is required for impacted or broken teeth and may involve an incision 
+    in the gum, removal of surrounding bone, or sectioning of the tooth, and is performed under local anesthesia, sedation, or general anesthesia 
+    based on medical needs. Prior to extraction, patients are advised to inform the dentist of any existing medical conditions to ensure safe 
+    treatment planning. Recovery after tooth extraction usually takes a few days, during which mild pain and swelling are normal and can be
+    managed with prescribed medication and proper post-operative care. Patients are advised to avoid smoking, alcohol, hot foods, and strenuous
+    activity, and to maintain good oral hygiene while protecting the extraction site. Wisdom tooth extraction is a routine procedure at
+    Dhotrad’s Sunny Dental Clinics and is commonly recommended when there is insufficient space in the jaw, leading to pain, infection, or impaction.
+    The cost of tooth or wisdom tooth extraction varies depending on the complexity, position of the tooth, number of teeth involved, and level of impaction, 
+    and is discussed in detail after clinical evaluation. With proper care and adherence to post-extraction instructions, healing is usually quick and uneventful.
+    If you are experiencing tooth pain, swelling, or discomfort, contact Dhotrad’s Sunny Dental Clinics today for expert evaluation and safe tooth 
+    extraction to restore your oral health and comfort."
   },
   {
     "id": 8,
     "icon": "implant_icon.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/denture.jpg",
     "title": "Dentures",
-    "description": "Dentures replace missing teeth and restore smiles.",
-    "fullContent": "Dentures are removable or fixed prosthetics designed to restore chewing, speech, and facial support.\n\nProper care ensures comfort and longevity."
+    "description": "Dentures are a reliable and time-tested solution for replacing missing teeth and restoring both function and appearance.",
+    "fullContent": "Dentures are a reliable and time-tested solution for replacing missing teeth and restoring both function and appearance. 
+    At Dhotrad’s Sunny Dental Clinics, we provide high-quality, customized dentures designed to ensure comfort, natural aesthetics, 
+    and improved quality of life. Dentures, also known as artificial or false teeth, act as prosthetic replacements for one or more 
+    missing teeth and are commonly made from acrylic, nylon, or metal to fit securely over the gums. Properly fitted dentures help 
+    improve speech, chewing ability, facial support, and self-confidence while preventing facial sagging and protecting remaining teeth. 
+    Dentures are available as partial or complete solutions depending on the number of missing teeth, with partial dentures used when 
+    some natural teeth remain and full dentures recommended when all teeth are missing or extracted. Removable dentures are easy to clean 
+    and maintain, while flexible dentures offer enhanced comfort, lightweight design, and improved aesthetics due to gum-colored, translucent 
+    materials that eliminate the need for visible metal clips. The denture preparation process involves clinical examination, impressions 
+    of the mouth, bite assessment, trial fittings, and final insertion to ensure proper fit, comfort, and function. The cost of dentures 
+    varies depending on whether extractions are required, the type of denture selected, materials used, number of visits, and insurance 
+    coverage. While dentures offer many benefits, some patients may initially experience adjustment-related issues such as mild discomfort,
+    speech difficulty, or irritation, which typically resolve as the mouth adapts. Alternatives to dentures include dental implants, 
+    veneers, and dental bridges, which may be recommended based on individual oral health and long-term goals. Proper denture care, including
+    daily cleaning with appropriate solutions, careful handling, soaking overnight, and regular dental check-ups, helps extend their lifespan 
+    and maintain oral health. If you are missing teeth and looking for a functional and aesthetic replacement, contact Dhotrad’s Sunny Dental 
+    Clinics today to restore your smile, confidence, and comfort with expertly designed dentures."
   },
   {
     "id": 9,
     "icon": "teeth_icon.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dental_Implants.jpg",
     "title": "Dental Implants",
-    "description": "Permanent solution for replacing missing teeth.",
-    "fullContent": "Dental implants are titanium posts placed in the jawbone to support crowns, bridges, or dentures.\n\nThey offer excellent stability, aesthetics, and durability."
+    "description": "Dental implants are an advanced and long-lasting solution for replacing missing teeth and restoring a natural, confident smile.",
+    "fullContent": "Dental implants are an advanced and long-lasting solution for replacing missing teeth and restoring a natural, confident smile. 
+    At Dhotrad’s Sunny Dental Clinics, we provide customized dental implant treatments designed to meet individual patient needs while 
+    delivering excellent function, comfort, and aesthetics. A dental implant is a titanium screw that is surgically placed into the 
+    jawbone to replace the root of a missing tooth, and once healed, it supports a dental crown that closely resembles a natural tooth 
+    in appearance and feel. Dental implants work by fusing with the jawbone, creating a stable foundation for replacement teeth, which 
+    prevents slipping or shifting and allows patients to eat, speak, and smile with confidence. Compared to traditional dentures or 
+    bridges, implants provide superior stability and a more natural experience. Dental implants offer several benefits, including 
+    improved appearance, clearer speech, enhanced chewing ability, better comfort, increased self-esteem, improved oral health, exceptional
+    durability, and long-term convenience, with a high success rate when properly maintained. While dental implants are a safe and 
+    effective procedure, potential considerations include the need for surgery, multiple appointments, healing time, and higher costs 
+    in cases involving multiple teeth, all of which are discussed transparently with patients before treatment planning. Dental implants 
+    are suitable for patients with healthy gums, adequate jawbone support or eligibility for bone grafting, and good oral hygiene habits, 
+    and they are especially beneficial when traditional bridges or dentures are uncomfortable or unsuitable. Two main types of dental 
+    implants are commonly used, including endosteal implants placed directly into the jawbone and subperiosteal implants designed for 
+    patients with insufficient bone height. The dental implant procedure is performed in stages, beginning with surgical placement of the 
+    implant into the jawbone, followed by a healing period during which the implant bonds with the bone. Temporary restorations may be 
+    worn during this phase. Once healing is complete, an abutment is attached and impressions are taken to fabricate the final crown, 
+    bridge, or denture, restoring full function and aesthetics. Proper oral hygiene, regular dental visits, avoidance of smoking, and care
+    while chewing hard foods help ensure the long-term success of dental implants. If you are missing one or more teeth and looking for 
+    a permanent and natural-looking replacement, contact Dhotrad’s Sunny Dental Clinics today to explore dental implant treatment and restore
+    your smile with confidence."
   },
   {
     "id": 10,
     "icon": "smile_icon.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/MouthGuard.jpg",
     "title": "MouthGuard",
-    "description": "Protects teeth from grinding, clenching, and sports injuries.",
-    "fullContent": "Mouthguards protect teeth from grinding during sleep and injuries during sports.\n\nCustom-made mouthguards provide the best fit, comfort, and protection.\n\nProper cleaning and storage extend their lifespan."
+    "description": "A mouthguard, also called a nightguard or biteguard, is a dental appliance used to protect teeth from grinding or clenching during sleep",
+    "fullContent": "At Dhotrad’s Sunny Dental Clinics, we help protect your smile with high-quality, custom mouthguards designed for comfort, safety, and long-term oral health.
+    We provide different types of mouthguards based on individual needs to ensure effective protection and lasting smiles.
+    What is a Mouthguard?
+    A mouthguard, also called a nightguard or biteguard, is a dental appliance used to protect teeth from grinding or clenching during sleep and from injuries during sports activities.
+    Mouthguards may also help reduce snoring and manage mild obstructive sleep apnea.
+    Types of Mouthguards
+    Stock mouthguards are affordable and easily available in stores but often feel bulky and provide a loose fit.
+    Boil-and-bite mouthguards offer a better fit by molding to the teeth after heating, making them a more comfortable option.
+    Custom-made mouthguards are dentist-designed using dental impressions, offering the best fit, comfort, and protection, especially for teeth grinding, snoring, or sleep apnea.
+    When is a Mouthguard Needed?
+    Sports mouthguards are essential for contact and high-impact sports to prevent tooth and facial injuries.
+    Nightguards are recommended for patients with teeth grinding or clenching to prevent tooth wear, jaw pain, and gum irritation.
+    Specialized mouthguards can help reduce snoring and support airway positioning in sleep apnea cases.
+    Mouthguard Care
+    Brush and floss before wearing the mouthguard.
+    Rinse and clean it daily using cool water and a toothbrush.
+    Store it in a ventilated case and keep it away from heat and pets.
+    Replace the mouthguard when worn out or every two to three years for optimal protection."
   },
   {
     "id": 11,
     "icon": "implant_icon.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/fullMouthRehabilitation.jpg",
     "title": "Full Mouth Rehabilitation",
-    "description": "Comprehensive treatment restoring all teeth for function and aesthetics.",
-    "fullContent": "Full Mouth Rehabilitation involves restoring multiple teeth using crowns, bridges, implants, veneers, and whitening.\n\nIt improves bite balance, comfort, function, and appearance."
+    "description": "Comprehensive treatment for restoring all teeth using a combination of procedures for function and aesthetics.",
+    "fullContent": "At Dhotrad’s Sunny Dental Clinics, we provide comprehensive and personalized dental solutions designed to restore oral health, function, and aesthetics for long-lasting, confident smiles.
+    What is Full Mouth Rehabilitation (FMR)?
+    Full Mouth Rehabilitation is an advanced dental treatment approach for patients with multiple oral concerns such as missing, damaged, worn, or misaligned teeth.
+    It involves carefully planned restorative and cosmetic procedures to rebuild the entire mouth, improving chewing efficiency, speech clarity, comfort, appearance, and overall quality of life.
+    Who Requires Full Mouth Rehabilitation?
+    Patients with multiple missing teeth due to decay, injury, or trauma
+    Teeth with large, weak, or failing restorations
+    Misaligned teeth that affect bite balance and jaw function
+    Severely worn, chipped, broken, or decayed teeth
+    Chronic teeth grinding or erosion caused by acidic foods, beverages, or acid reflux
+    Treatment Options in Full Mouth Rehabilitation
+    Dental Bridges are fixed restorations used to replace missing teeth by anchoring artificial teeth between healthy adjacent teeth, restoring function and smile aesthetics.
+    Dental Crowns are protective caps placed over damaged or fractured teeth to restore strength, shape, and natural appearance.
+    Dental Implants are titanium posts surgically placed into the jawbone to replace missing teeth, offering a stable, long-term solution that looks and functions like natural teeth.
+    Inlays and Onlays are custom-made restorations that repair moderate tooth damage while preserving maximum healthy tooth structure.
+    Porcelain Veneers are thin, tooth-colored shells bonded to the front of teeth to enhance smile appearance by correcting discoloration, shape, and minor alignment issues.
+    Teeth Whitening is often included to remove stains and discoloration, completing the rehabilitation with a brighter, refreshed smile."
   },
   {
     "id": 12,
     "icon": "teeth_icon.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/pediatricDentistry.jpg",
     "title": "Pediatric Dentistry",
-    "description": "Comprehensive dental care for children at all stages of growth.",
-    "fullContent": "Pediatric dentistry focuses on oral health from infancy through adolescence.\n\nPreventive care and early treatment ensure healthy development and confident smiles."
+    "description": "Pediatric dentistry focuses on the oral health of children, including their teeth, gums, and mouth during all stages of growth.",
+    "fullContent": "At Dhotrad’s Sunny Dental Clinics, we are committed to nurturing healthy smiles from early childhood through the teenage years.
+    We believe that healthy children build healthy nations, and our focus is on providing gentle, compassionate, and comprehensive dental care for every child.
+    What is Pediatric Dentistry?
+    Pediatric dentistry focuses on the oral health of children, including their teeth, gums, and mouth during all stages of growth and development.
+    Children begin getting their first teeth within the first six months of life, and by the age of six or seven, these primary teeth gradually make way for permanent teeth.
+    With proper dental care, children can avoid decay, infections, and long-term oral complications.
+    Pediatric Dental Treatments
+    Pediatric dental care includes infant oral health examinations and cavity risk assessment for both mother and child.
+    Preventive care such as professional cleaning, fluoride treatments, and guidance on nutrition and oral hygiene habits is essential.
+    Counseling for habits like thumb sucking and pacifier use helps prevent future dental problems.
+    Early evaluation for bite correction and orthodontic concerns ensures proper jaw and tooth development.
+    Treatment also includes cavity fillings, management of gum conditions, and care for dental injuries such as fractured or displaced teeth.
+    <strong> What is a Pulpectomy?</strong>
+    A pulpectomy is a procedure used to remove infected pulp tissue from a child’s tooth.
+    The pulp contains nerves, blood vessels, and connective tissue, and when severely infected, it must be removed to save the tooth.
+    Pulpectomy is commonly performed on baby teeth and is often referred to as a baby root canal.
+    Pulpectomy vs Root Canal Treatment
+    In a pulpectomy, all pulp is removed and replaced with a resorbable material suitable for primary teeth.
+    A root canal treatment involves similar steps but is usually performed on permanent teeth and followed by a crown.
+    <strong> When is a Pulpectomy Needed? </strong>
+    Pulpectomy is recommended when a baby tooth is badly damaged due to decay or trauma.
+    Preserving baby teeth is important because they maintain space for permanent teeth, support proper chewing, and aid speech development.
+    Loss of baby teeth too early can lead to alignment issues and overcrowding.
+    <strong> Can Pulpectomy Be Prevented? </strong>
+    Good oral hygiene, regular dental visits, and early detection of cavities can reduce the need for pulpectomy.
+    Using mouthguards during sports and addressing dental trauma promptly also helps prevent severe damage.
+    Pulpectomy vs Extraction
+    If a tooth is too damaged or loose, extraction may be necessary.
+    In such cases, a space maintainer may be used to preserve proper spacing until the permanent tooth erupts.
+    Gentle and Child-Friendly Care
+    We understand the concerns of parents and the anxiety children may feel during dental visits.
+    Our experienced pediatric dental team knows how to make children feel comfortable, safe, and cared for.
+    Regular checkups and preventive care help ensure healthy teeth, confident smiles, and happy childhood memories."
   },
   {
     "id": 13,
     "icon": "smile_icon.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dentalCrown.jpg",
     "title": "Veneers / Cosmetic Dentistry",
-    "description": "Enhances smile appearance using advanced cosmetic solutions.",
-    "fullContent": "Veneers are thin shells bonded to teeth to correct discoloration, gaps, chips, and shape irregularities.\n\nThey provide long-lasting aesthetic improvement."
+    "description": "Dental veneers are thin, tooth-colored shells that are bonded to the front surface of teeth to improve their appearance while smiling.",
+    "fullContent": "At Dhotrad’s Sunny Dental Clinics, we focus on enhancing smiles through advanced cosmetic dentistry solutions that improve both appearance and confidence.
+    Our veneer treatments are designed to deliver natural-looking, long-lasting results tailored to each patient.
+    What are Dental Veneers?
+    Dental veneers are thin, tooth-colored shells that are bonded to the front surface of teeth to improve their appearance while smiling.
+    They are commonly made from porcelain or resin-composite materials and are custom-crafted to match the shape and shade of natural teeth.
+    Veneers are an effective solution for correcting cosmetic imperfections and achieving a harmonious smile.
+    What Dental Concerns Can Veneers Treat?
+    Veneers are used to improve the appearance of chipped or broken teeth.
+    They help mask severe discoloration or uneven tooth color that does not respond to whitening treatments.
+    Veneers can close small gaps between teeth and enhance teeth that are smaller, pointed, or irregularly shaped.
+    They offer a semi-permanent cosmetic solution for a brighter, more confident smile.
+    Benefits of Dental Veneers
+    Veneers significantly enhance the overall appearance of teeth and create a more uniform smile.
+    They are stain-resistant, durable, and designed to blend seamlessly with natural teeth.
+    Veneers require minimal maintenance and provide long-term aesthetic improvement.
+    Types of Dental Veneers
+    Porcelain veneers are the most commonly used and provide excellent strength, durability, and a natural appearance.
+    Traditional porcelain veneers usually require reshaping of the tooth surface, making the procedure irreversible and sometimes requiring local anesthesia.
+    No-prep veneers require minimal enamel modification and preserve more of the natural tooth structure.
+    In many cases, no-prep veneers do not require anesthesia and offer a more conservative cosmetic solution.
+    Personalized Smile Design
+    The type of veneer recommended depends on individual dental needs, aesthetic goals, and oral health.
+    Our dentists carefully evaluate each case to ensure veneers provide optimal function, comfort, and a naturally beautiful smile."
   },
   {
     "id": 14,
     "icon": "implant_icon.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/gumCare.png",
     "title": "Gum Care",
-    "description": "Treatment and prevention of gum disease.",
-    "fullContent": "Gum care focuses on preventing and treating gingivitis and periodontitis.\n\nRegular cleanings, scaling, and good oral hygiene help maintain healthy gums."
+    "description": "Gum disease begins when plaque builds up under and along the gum line.",
+    "fullContent": "At Dhotrad’s Sunny Dental Clinics, we believe oral health is not just about straight teeth or a bright smile, but also about strong and healthy gums.
+    Even cavity-free teeth do not guarantee immunity from gum disease, as gum problems often develop painlessly and go unnoticed.
+    Healthy gums are the foundation of a healthy smile and overall oral wellness.
+    What is Gum Disease?
+    Gum disease begins when plaque builds up under and along the gum line.
+    Plaque is a sticky, bacteria-filled film that can cause infection of the gums and supporting bone.
+    This buildup can lead to gingivitis, the earliest stage of gum disease.
+    Gingivitis causes gums to become inflamed, tender, red, swollen, and prone to bleeding.
+    At this stage, damage is usually reversible since the bone and tissues supporting the teeth are not yet affected.
+    If left untreated, gingivitis can progress to periodontitis, a more advanced form of gum disease.
+    Periodontitis affects the bone that holds teeth in place and can lead to permanent damage.
+    Advanced periodontitis is the final stage, where supporting fibers and bone are destroyed, often resulting in loose teeth or extractions.
+    Signs and Symptoms of Gum Disease
+    Persistent bad breath or bad taste in the mouth
+    Gums that bleed easily while brushing or flossing
+    Swollen, red, or tender gums
+    Gums that pull away from the teeth
+    Loose or separating permanent teeth
+    How to Prevent Gum Disease
+    Gum disease is largely preventable with good oral care habits.
+    Floss daily to remove plaque and food particles from areas your toothbrush cannot reach.
+    Visit the dentist regularly for checkups and professional cleanings to detect early signs of gum disease.
+    Professional scaling is the only effective way to remove tartar buildup.
+    Quit smoking, as it weakens the immune system and increases the risk of gum disease while slowing healing.
+    Brush twice a day using a soft-bristled toothbrush and clean the tongue to reduce bacteria buildup.
+    Replace your toothbrush every three months or after illness to avoid bacterial reinfection.
+    Use a fluoride toothpaste recommended by your dentist to strengthen teeth and support gum health.
+    Therapeutic mouthwashes can help reduce plaque, control gingivitis, and slow tartar formation when used alongside brushing and flossing.
+    With consistent care and regular dental visits, healthy gums can be maintained for a lifetime."
+  },
+  {
+    "id": 14,
+      "icon": "implant_icon.png",
+      "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/gumCare.png",
+      "title": "Tele-Dentistry",
+      "description": "e-Dentistry or Tele-dentistry represents the modern approach to delivering dental care through digital and tele-health technologies",
+      "fullContent": "e-Dentistry or Tele-dentistry represents the modern approach to delivering dental care through digital and tele-health technologies, making oral healthcare more accessible, efficient, and patient-centric.
+    With the evolution of communication technologies, dental consultations and guidance can now reach patients even in the most remote locations.
+    The connection between oral health and overall health is well established, with global studies highlighting oral diseases as a major public health concern affecting billions worldwide.
+    What is e-Dentistry or Tele-dentistry?
+    e-Dentistry or Tele-dentistry refers to the use of tele-health systems and digital tools in dentistry to deliver dental care, consultation, education, and follow-up remotely.
+    Tele-health is not a single service but a combination of technologies that enhance healthcare delivery and patient education beyond physical clinic visits.
+    Tele-dentistry allows dentists to evaluate, diagnose, and guide patients using digital communication platforms.
+    Modes of Tele-dentistry
+    Live video consultations enable real-time interaction between dentist and patient for immediate guidance and evaluation.
+    Store-and-forward methods allow sharing of dental images, reports, and records for later assessment by the dentist.
+    Remote patient monitoring helps track oral health conditions over time.
+    Mobile health solutions support dental care access through smartphones and digital applications.
+    Benefits and Uses of e-Dentistry
+    e-Dentistry helps extend dental care services to underserved and remote populations.
+    It plays a vital role in educating the public and spreading awareness about oral hygiene and preventive care.
+    Tele-dentistry supports preliminary consultations, treatment planning, and professional guidance.
+    It also helps in scientific scheduling, seeking second opinions, and follow-up care after treatment.
+    Scope of e-Dentistry in India
+    e-Dentistry has significant potential in improving oral health awareness and early diagnosis across diverse populations.
+    It assists patients in pre-consultation discussions, reduces unnecessary clinic visits, and improves access to expert dental advice.
+    At Dhotrad’s Sunny Dental Clinics, we believe in adopting advanced technologies to provide convenient, reliable, and high-quality dental care.
+    Both domestic and international patients can use our e-Dentistry platform to consult with dentists, schedule appointments, and receive follow-up care.
+    Tele-dentistry helps patients confidently discuss dental concerns, understand treatment options, and plan effective care from the comfort of their location.
+    Get in touch with Dhotrad’s Sunny Dental Clinics today to explore e-Dentistry solutions and take a step toward healthier, happier smiles."
   }
 ]
