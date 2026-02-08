@@ -2,7 +2,7 @@
   {
     "id": 1,
     "icon": "implant_icon.png",
-    "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dental_Implants.jpg",
+    "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/OrthodonticTtretmmentHubli.jpg",
     "title": "Ortho - Braces",
     "description": "Orthodontic treatment using braces to correct crooked, crowded, or misaligned teeth.",
     "fullContent": "Orthodontic treatment is a dental specialty focused on correcting crooked, crowded, or misaligned teeth and improper bites using braces or other orthodontic appliances.\n\nThese appliances gently move teeth into their ideal position, improving the appearance of your smile while enhancing chewing, speech, and overall oral health.\n\nMisaligned teeth can be difficult to clean and may lead to tooth decay, gum disease, uneven tooth wear, and jaw problems if left untreated.\n\nFixed braces made of metal or tooth-colored ceramic provide precise and long-lasting results.\n\nTreatment is most effective between the ages of 8 and 14, but adults can also undergo orthodontic care successfully.\n\nTypically lasting 12 to 30 months, orthodontic treatment results in a healthy, confident smile."
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "icon": "implant_icon.png",
-    "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/denatl_Implants.jpg",
+    "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dental_Implants.jpg",
     "title": "Aligners",
     "description": "Clear aligners are a modern, removable orthodontic solution for straightening teeth.",
     "fullContent": "Clear aligners are transparent, removable orthodontic appliances designed to straighten teeth discreetly and comfortably.\n\nThey are custom-made using digital impressions and gradually move teeth into alignment.\n\nAligners are easy to remove, making brushing, flossing, and eating more convenient.\n\nThey are suitable for mild to moderate alignment issues and must be worn 20–22 hours per day.\n\nRegular follow-ups ensure predictable and effective results."
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "icon": "smile_icon.png",
-    "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/veneers.jpg",
+    "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dentalCrown.jpg",
     "title": "Veneers / Cosmetic Dentistry",
     "description": "Enhances smile appearance using advanced cosmetic solutions.",
     "fullContent": "Veneers are thin shells bonded to teeth to correct discoloration, gaps, chips, and shape irregularities.\n\nThey provide long-lasting aesthetic improvement."
