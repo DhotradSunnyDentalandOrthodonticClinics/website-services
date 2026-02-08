@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "icon": "implant_icon.png",
+    "image": "ortho_braces.jpg",
+    "title": "Ortho - Braces",
+    "description": "Orthodontic treatment using braces to correct crooked, crowded, or misaligned teeth.",
+    "fullContent": "Orthodontic treatment is a dental specialty focused on correcting crooked, crowded, or misaligned teeth and improper bites using braces or other orthodontic appliances.\n\nThese appliances gently move teeth into their ideal position, improving the appearance of your smile while enhancing chewing, speech, and overall oral health.\n\nMisaligned teeth can be difficult to clean and may lead to tooth decay, gum disease, uneven tooth wear, and jaw problems if left untreated.\n\nFixed braces made of metal or tooth-colored ceramic provide precise and long-lasting results.\n\nTreatment is most effective between the ages of 8 and 14, but adults can also undergo orthodontic care successfully.\n\nTypically lasting 12 to 30 months, orthodontic treatment results in a healthy, confident smile."
+  },
+  {
+    "id": 2,
+    "icon": "implant_icon.png",
+    "image": "ortho_aligners.jpg",
+    "title": "Aligners",
+    "description": "Clear aligners are a modern, removable orthodontic solution for straightening teeth.",
+    "fullContent": "Clear aligners are transparent, removable orthodontic appliances designed to straighten teeth discreetly and comfortably.\n\nThey are custom-made using digital impressions and gradually move teeth into alignment.\n\nAligners are easy to remove, making brushing, flossing, and eating more convenient.\n\nThey are suitable for mild to moderate alignment issues and must be worn 20–22 hours per day.\n\nRegular follow-ups ensure predictable and effective results."
+  },
+  {
+    "id": 3,
+    "icon": "teeth_icon.png",
+    "image": "dental_fillings.jpg",
+    "title": "Dental Fillings",
+    "description": "Dental fillings are an effective treatment for repairing teeth affected by cavities, decay, cracks, or minor fractures.",
+    "fullContent": "Dental fillings are an effective treatment for repairing teeth affected by cavities, decay, cracks, or minor fractures.\n\nAt Dhotrad’s Sunny Dental Clinics, we provide advanced dental filling treatments that restore tooth strength, function, and appearance while preventing further damage.\n\nAvailable filling materials include composite, GIC, silver amalgam, porcelain, and gold.\n\nWith proper oral hygiene and regular dental check-ups, fillings can last for many years."
+  },
+  {
+    "id": 4,
+    "icon": "smile_icon.png",
+    "image": "dental_crowns.jpg",
+    "title": "Dental Crowns",
+    "description": "Dental crowns are a reliable restorative and cosmetic solution used to protect and strengthen damaged teeth.",
+    "fullContent": "Dental crowns protect and strengthen damaged or weakened teeth while restoring function and appearance.\n\nThey are commonly placed after root canal treatment or over dental implants.\n\nMaterials include porcelain, ceramic, zirconia, metal, and porcelain-fused-to-metal.\n\nWith proper care, crowns can last many years."
+  },
+  {
+    "id": 5,
+    "icon": "implant_icon.png",
+    "image": "root_canal.jpg",
+    "title": "Root Canal",
+    "description": "Root canal treatment removes infection and saves the natural tooth.",
+    "fullContent": "Root canal treatment removes infected pulp tissue to relieve pain and prevent tooth extraction.\n\nThe canals are cleaned, disinfected, and sealed.\n\nA crown is usually placed to restore strength and appearance."
+  },
+  {
+    "id": 6,
+    "icon": "teeth_icon.png",
+    "image": "dental_bridge.jpg",
+    "title": "Dental Bridge",
+    "description": "A dental bridge replaces missing teeth and restores function and appearance.",
+    "fullContent": "A dental bridge replaces one or more missing teeth using artificial teeth supported by adjacent teeth or implants.\n\nIt restores chewing, speech, and smile aesthetics.\n\nWith proper care, bridges can last many years."
+  },
+  {
+    "id": 7,
+    "icon": "smile_icon.png",
+    "image": "tooth_extraction.jpg",
+    "title": "Tooth Extraction",
+    "description": "Safe removal of severely damaged or infected teeth.",
+    "fullContent": "Tooth extraction is performed when a tooth is beyond repair due to decay, infection, trauma, or impaction.\n\nRecovery is usually quick with proper aftercare."
+  },
+  {
+    "id": 8,
+    "icon": "implant_icon.png",
+    "image": "dentures.jpg",
+    "title": "Dentures",
+    "description": "Dentures replace missing teeth and restore smiles.",
+    "fullContent": "Dentures are removable or fixed prosthetics designed to restore chewing, speech, and facial support.\n\nProper care ensures comfort and longevity."
+  },
+  {
+    "id": 9,
+    "icon": "teeth_icon.png",
+    "image": "dental_implants.jpg",
+    "title": "Dental Implants",
+    "description": "Permanent solution for replacing missing teeth.",
+    "fullContent": "Dental implants are titanium posts placed in the jawbone to support crowns, bridges, or dentures.\n\nThey offer excellent stability, aesthetics, and durability."
+  },
+  {
+    "id": 10,
+    "icon": "smile_icon.png",
+    "image": "mouthguard.jpg",
+    "title": "MouthGuard",
+    "description": "Protects teeth from grinding, clenching, and sports injuries.",
+    "fullContent": "Mouthguards protect teeth from grinding during sleep and injuries during sports.\n\nCustom-made mouthguards provide the best fit, comfort, and protection.\n\nProper cleaning and storage extend their lifespan."
+  },
+  {
+    "id": 11,
+    "icon": "implant_icon.png",
+    "image": "full_mouth_rehab.jpg",
+    "title": "Full Mouth Rehabilitation",
+    "description": "Comprehensive treatment restoring all teeth for function and aesthetics.",
+    "fullContent": "Full Mouth Rehabilitation involves restoring multiple teeth using crowns, bridges, implants, veneers, and whitening.\n\nIt improves bite balance, comfort, function, and appearance."
+  },
+  {
+    "id": 12,
+    "icon": "teeth_icon.png",
+    "image": "pediatric_dentistry.jpg",
+    "title": "Pediatric Dentistry",
+    "description": "Comprehensive dental care for children at all stages of growth.",
+    "fullContent": "Pediatric dentistry focuses on oral health from infancy through adolescence.\n\nPreventive care and early treatment ensure healthy development and confident smiles."
+  },
+  {
+    "id": 13,
+    "icon": "smile_icon.png",
+    "image": "veneers.jpg",
+    "title": "Veneers / Cosmetic Dentistry",
+    "description": "Enhances smile appearance using advanced cosmetic solutions.",
+    "fullContent": "Veneers are thin shells bonded to teeth to correct discoloration, gaps, chips, and shape irregularities.\n\nThey provide long-lasting aesthetic improvement."
+  },
+  {
+    "id": 14,
+    "icon": "implant_icon.png",
+    "image": "gum_care.jpg",
+    "title": "Gum Care",
+    "description": "Treatment and prevention of gum disease.",
+    "fullContent": "Gum care focuses on preventing and treating gingivitis and periodontitis.\n\nRegular cleanings, scaling, and good oral hygiene help maintain healthy gums."
+  }
+]
