@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "icon": "implant_icon.png",
+    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Braces.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/OrthodonticTtretmmentHubli.jpg",
     "title": "Braces",
     "description": "Orthodontic treatment is a dental specialty focused on correcting crooked, crowded, or misaligned teeth and improper bites using braces or other orthodontic appliances.",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "icon": "implant_icon.png",
+    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Aligners.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/Aligner_img1.jpg",
     "title": "Aligners",
     "description": "Clear aligners are a modern, removable orthodontic solution for straightening teeth.",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "icon": "teeth_icon.png",
+    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Dental_Filling.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dentalFillings.png",
     "title": "Dental Fillings",
     "description": "Dental fillings are an effective treatment for repairing teeth affected by cavities, decay, cracks, or minor fractures.",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "icon": "smile_icon.png",
+    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Crowns.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dentalCrown.jpg",
     "title": "Dental Crowns",
     "description": "Dental crowns are a reliable restorative and cosmetic solution used to protect and strengthen damaged teeth.",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "icon": "implant_icon.png",
+    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Root_canal_treatment.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/rootCanal.jpg",
     "title": "Root Canal",
     "description": "Root canal treatment is a tooth-saving procedure designed to remove infection from the inner portion of the tooth.",
@@ -41,12 +41,12 @@
   },
   {
     "id": 6,
-    "icon": "teeth_icon.png",
-    "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dentalBridge.jpg",
-    "title": "Dental Bridge",
-    "description": "A dental bridge is an effective and reliable solution for replacing missing teeth and restoring both function and appearance.",
-    "fullContent": "<p>A dental bridge is an effective and reliable solution for replacing missing teeth and restoring both function and appearance.</p><p>At Dhotrad’s Sunny Dental Clinics, we design and place dental bridges that look natural, feel comfortable, and blend seamlessly with your existing teeth.</p><p>Bridges are a preferred alternative to removable dentures for many patients due to their stability and long-term comfort.</p><p>A dental bridge, also known as a fixed partial denture, is used when one or more teeth are missing and consists of an artificial tooth called a pontic, which fills the gap and is supported by healthy teeth or dental implants on either side.</p><p>These supporting teeth, known as abutments, are prepared to securely hold the bridge in place, and the bridge is fabricated using materials such as porcelain, zirconia, metal, or a combination of materials to closely match natural teeth.</p><p>Dental bridge treatment is recommended for patients with missing teeth and healthy adjacent teeth capable of supporting the restoration, helping restore chewing and speaking ability, improve smile aesthetics, maintain facial structure, evenly distribute bite forces, and prevent surrounding teeth from shifting out of position.</p><p>Several types of dental bridges are available, including traditional, cantilever, Maryland, and implant-supported bridges, with the most suitable option selected based on the location of the missing teeth, oral health condition, and functional requirements.</p><p>The treatment process begins with a thorough clinical examination and X-rays to assess tooth and bone health, followed by preparation of the supporting teeth, impression taking using conventional or digital methods, and custom fabrication of the bridge in a dental laboratory, during which a temporary bridge may be placed.</p><p>The final bridge is then securely fitted to restore function and aesthetics.</p><p>The cost of a dental bridge varies depending on the number of teeth replaced, materials used, type of bridge selected, and any additional treatments required, and with proper oral hygiene and regular dental visits, dental bridges can last for many years.</p><p>If you are missing one or more teeth, contact Dhotrad’s Sunny Dental Clinics today to restore a strong, functional, and confident smile.</p>"
-  },
+    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Dental_Implantz.png",
+    "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dental_Implants.jpg",
+    "title": "Dental Implants",
+    "description": "Dental implants are an advanced and long-lasting solution for replacing missing teeth and restoring a natural, confident smile.",
+    "fullContent": "<p>Dental implants are an advanced and long-lasting solution for replacing missing teeth and restoring a natural, confident smile.</p><p>At Dhotrad’s Sunny Dental Clinics, we provide customized dental implant treatments designed to meet individual patient needs while delivering excellent function, comfort, and aesthetics.</p><p>A dental implant is a titanium screw that is surgically placed into the jawbone to replace the root of a missing tooth, and once healed, it supports a dental crown that closely resembles a natural tooth in appearance and feel.</p><p>Dental implants work by fusing with the jawbone, creating a stable foundation for replacement teeth, which prevents slipping or shifting and allows patients to eat, speak, and smile with confidence.</p><p>Compared to traditional dentures or bridges, implants provide superior stability and a more natural experience.</p><p>Dental implants offer several benefits, including improved appearance, clearer speech, enhanced chewing ability, better comfort, increased self-esteem, improved oral health, exceptional durability, and long-term convenience, with a high success rate when properly maintained.</p><p>While dental implants are a safe and effective procedure, potential considerations include the need for surgery, multiple appointments, healing time, and higher costs in cases involving multiple teeth, all of which are discussed transparently with patients before treatment planning.</p><p>Dental implants are suitable for patients with healthy gums, adequate jawbone support or eligibility for bone grafting, and good oral hygiene habits, and they are especially beneficial when traditional bridges or dentures are uncomfortable or unsuitable.</p><p>Two main types of dental implants are commonly used, including endosteal implants placed directly into the jawbone and subperiosteal implants designed for patients with insufficient bone height.</p><p>The dental implant procedure is performed in stages, beginning with surgical placement of the implant into the jawbone, followed by a healing period during which the implant bonds with the bone.</p><p>Temporary restorations may be worn during this phase.</p><p>Once healing is complete, an abutment is attached and impressions are taken to fabricate the final crown, bridge, or denture, restoring full function and aesthetics.</p><p>Proper oral hygiene, regular dental visits, avoidance of smoking, and care while chewing hard foods help ensure the long-term success of dental implants.</p><p>If you are missing one or more teeth and looking for a permanent and natural-looking replacement, contact Dhotrad’s Sunny Dental Clinics today to explore dental implant treatment and restore your smile with confidence.</p>"
+    },
   {
     "id": 7,
     "icon": "smile_icon.png",
@@ -65,11 +65,11 @@
   },
   {
     "id": 9,
-    "icon": "teeth_icon.png",
-    "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dental_Implants.jpg",
-    "title": "Dental Implants",
-    "description": "Dental implants are an advanced and long-lasting solution for replacing missing teeth and restoring a natural, confident smile.",
-    "fullContent": "<p>Dental implants are an advanced and long-lasting solution for replacing missing teeth and restoring a natural, confident smile.</p><p>At Dhotrad’s Sunny Dental Clinics, we provide customized dental implant treatments designed to meet individual patient needs while delivering excellent function, comfort, and aesthetics.</p><p>A dental implant is a titanium screw that is surgically placed into the jawbone to replace the root of a missing tooth, and once healed, it supports a dental crown that closely resembles a natural tooth in appearance and feel.</p><p>Dental implants work by fusing with the jawbone, creating a stable foundation for replacement teeth, which prevents slipping or shifting and allows patients to eat, speak, and smile with confidence.</p><p>Compared to traditional dentures or bridges, implants provide superior stability and a more natural experience.</p><p>Dental implants offer several benefits, including improved appearance, clearer speech, enhanced chewing ability, better comfort, increased self-esteem, improved oral health, exceptional durability, and long-term convenience, with a high success rate when properly maintained.</p><p>While dental implants are a safe and effective procedure, potential considerations include the need for surgery, multiple appointments, healing time, and higher costs in cases involving multiple teeth, all of which are discussed transparently with patients before treatment planning.</p><p>Dental implants are suitable for patients with healthy gums, adequate jawbone support or eligibility for bone grafting, and good oral hygiene habits, and they are especially beneficial when traditional bridges or dentures are uncomfortable or unsuitable.</p><p>Two main types of dental implants are commonly used, including endosteal implants placed directly into the jawbone and subperiosteal implants designed for patients with insufficient bone height.</p><p>The dental implant procedure is performed in stages, beginning with surgical placement of the implant into the jawbone, followed by a healing period during which the implant bonds with the bone.</p><p>Temporary restorations may be worn during this phase.</p><p>Once healing is complete, an abutment is attached and impressions are taken to fabricate the final crown, bridge, or denture, restoring full function and aesthetics.</p><p>Proper oral hygiene, regular dental visits, avoidance of smoking, and care while chewing hard foods help ensure the long-term success of dental implants.</p><p>If you are missing one or more teeth and looking for a permanent and natural-looking replacement, contact Dhotrad’s Sunny Dental Clinics today to explore dental implant treatment and restore your smile with confidence.</p>"
+    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Aligners.png",
+    "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dentalBridge.jpg",
+    "title": "Dental Bridge",
+    "description": "A dental bridge is an effective and reliable solution for replacing missing teeth and restoring both function and appearance.",
+    "fullContent": "<p>A dental bridge is an effective and reliable solution for replacing missing teeth and restoring both function and appearance.</p><p>At Dhotrad’s Sunny Dental Clinics, we design and place dental bridges that look natural, feel comfortable, and blend seamlessly with your existing teeth.</p><p>Bridges are a preferred alternative to removable dentures for many patients due to their stability and long-term comfort.</p><p>A dental bridge, also known as a fixed partial denture, is used when one or more teeth are missing and consists of an artificial tooth called a pontic, which fills the gap and is supported by healthy teeth or dental implants on either side.</p><p>These supporting teeth, known as abutments, are prepared to securely hold the bridge in place, and the bridge is fabricated using materials such as porcelain, zirconia, metal, or a combination of materials to closely match natural teeth.</p><p>Dental bridge treatment is recommended for patients with missing teeth and healthy adjacent teeth capable of supporting the restoration, helping restore chewing and speaking ability, improve smile aesthetics, maintain facial structure, evenly distribute bite forces, and prevent surrounding teeth from shifting out of position.</p><p>Several types of dental bridges are available, including traditional, cantilever, Maryland, and implant-supported bridges, with the most suitable option selected based on the location of the missing teeth, oral health condition, and functional requirements.</p><p>The treatment process begins with a thorough clinical examination and X-rays to assess tooth and bone health, followed by preparation of the supporting teeth, impression taking using conventional or digital methods, and custom fabrication of the bridge in a dental laboratory, during which a temporary bridge may be placed.</p><p>The final bridge is then securely fitted to restore function and aesthetics.</p><p>The cost of a dental bridge varies depending on the number of teeth replaced, materials used, type of bridge selected, and any additional treatments required, and with proper oral hygiene and regular dental visits, dental bridges can last for many years.</p><p>If you are missing one or more teeth, contact Dhotrad’s Sunny Dental Clinics today to restore a strong, functional, and confident smile.</p>"
   },
   {
     "id": 10,
