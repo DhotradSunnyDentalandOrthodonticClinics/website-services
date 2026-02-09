@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Dental_Filling.png",
+    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Dental_fillings.png",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dentalFillings.png",
     "title": "Dental Fillings",
     "description": "Dental fillings are an effective treatment for repairing teeth affected by cavities, decay, cracks, or minor fractures.",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Root_canal_treatment.png",
+    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Root_canal.jpeg",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/rootCanal.jpg",
     "title": "Root Canal",
     "description": "Root canal treatment is a tooth-saving procedure designed to remove infection from the inner portion of the tooth.",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Dental_Implantz.png",
+    "icon": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/service_icon/Dental_implants.jpeg",
     "image": "https://raw.githubusercontent.com/DhotradSunnyDentalandOrthodonticClinics/website-services/main/images/dental_Implants.jpg",
     "title": "Dental Implants",
     "description": "Dental implants are an advanced and long-lasting solution for replacing missing teeth and restoring a natural, confident smile.",
